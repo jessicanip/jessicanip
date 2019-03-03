@@ -3,8 +3,8 @@ body {
 	background-color: #F5F5F5;
 	background-size: cover;
 	background-position: center;
-	padding-top: 70px;
-	padding-bottom: 100px;
+	padding-top: 5%;
+	padding-bottom: 10%;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
 
 h2 {
 	font-family: 'Assistant'; /* use google font */
-	font-size: 28px;
+	font-size: 29px;
 	line-height: 33px;
 	font-weight: normal;
 }
@@ -83,5 +83,5 @@ a:active {
 .row {
 	padding-left: 18%;
 	padding-right: 18%;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
