@@ -2,7 +2,8 @@ body {
 	background: url('images/background.png');
 	background-color: #F5F5F5;
 	background-size: cover;
-	padding-top: 60px;
+	background-position: center;
+	padding-top: 70px;
 	padding-bottom: 100px;
 }
 
@@ -14,7 +15,8 @@ h1 {
 
 h2 {
 	font-family: 'Assistant'; /* use google font */
-	font-size: 30px;
+	font-size: 28px;
+	line-height: 33px;
 	font-weight: normal;
 }
 
@@ -79,6 +81,7 @@ a:active {
 
 
 .row {
-	padding-left: 250px;
-	padding-right: 250px;
+	padding-left: 18%;
+	padding-right: 18%;
+	margin-bottom: 20px;
 }
