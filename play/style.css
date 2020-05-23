@@ -80,7 +80,7 @@ a:active {
 
 
 .row {
-	padding-left: 5%;
-	padding-right: 18%;
+	position: relative;
+	padding-left: 8%;
 	margin-bottom: 10px;
 }
