@@ -8,39 +8,41 @@ body {
 }
 
 h1 {
-	font-family: 'Cousine'; /* use google font */
+	font-family: 'Gelasio'; /* use google font */
 	font-size: 30px;
-	font-weight: bolder;
+	font-weight: bold;
 }
 
 h2 {
-	font-family: 'Assistant'; /* use google font */
-	font-size: 29px;
-	line-height: 37px;
+	font-family: 'Be Vietnam Pro'; /* use google font */
+	font-size: 20px;
+	line-height: 26px;
 	font-weight: normal;
 }
 
 h3 {
-	font-family: 'Assistant'; /* use google font */
-	font-size: 20px;
+	font-family: 'Be Vietnam Pro'; /* use google font */
+	font-size: 18px;
+	line-height: 25px;
 	font-weight: bold;
 }
 
 h4 {
-	font-family: 'Assistant'; /* use google font */
-	font-size: 16px;
-	font-weight: normal;
+	font-family: 'Be Vietnam Pro'; /* use google font */
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: thin;
 }
 
 h5 {
-	font-family: 'Cousine'; /* use google font */
-	font-size: 25px;
-	font-weight: normal;
+	font-family: 'Be Vietnam Pro'; /* use google font */
+	font-size: 20px;
+	font-weight: bold;
 }
 
 a {
-	font-family: 'Assistant'; /* use google font */
-	font-size: 20px;
+	font-family: 'Be Vietnam Pro'; /* use google font */
+	font-size: 18px;
 	font-weight: bold;
 	color: black;
 }
@@ -52,26 +54,26 @@ mark {
 }
 
 a:link {
-	font-family: 'Assistant'; /* use google font */
-	font-size: 20px;
+	font-family: 'Be Vietnam Pro'; /* use google font */
+	font-size: 18px;
 	font-weight: bold;
 	color: black;
 }
 
 /* visited link */
 a:visited {
-	font-family: 'Assistant'; /* use google font */
-	font-size: 20px;
+	font-family: 'Be Vietnam Pro'; /* use google font */
+	font-size: 18px;
 	font-weight: bold;
 	color: black;
 }
 
 /* mouse over link */
 a:hover {
-	font-family: 'Assistant'; /* use google font */
-	font-size: 20px;
+	font-family: 'Be Vietnam Pro'; /* use google font */
+	font-size: 18px;
 	font-weight: bold;
-	color: #FFF031;
+	color: #F5E82F;
 }
 
 /* selected link */
